@@ -9,7 +9,7 @@ This project uses the Boston Housing dataset to predict **median house prices (M
 
 - Dataset used: `BostonHousing.csv`
 - Target variable: `MEDV` (Median value of owner-occupied homes)
-- Source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/housing) *(or specify your source)*
+
 
 ---
 
